@@ -1,27 +1,27 @@
 <div align="center">
 
-<a href="https://omaralhami.com"><img src="assets/hero.svg" width="100%" alt="mar" /></a>
+<a href="https://omaralhami.com"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/hero.svg" width="100%" alt="mar" /></a>
 
 <img src="https://count.getloli.com/get/@:n0tmar?theme=moebooru" alt="Profile views" />
 
-<img src="assets/title-spotlight.svg" width="100%" alt="Spotlight" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/title-spotlight.svg" width="100%" alt="Spotlight" />
 
-<a href="https://github.com/n0tmar/Mar-Tools"><img src="assets/spotlight.svg" width="100%" alt="Mar Tools" /></a>
-
-<br /><br />
-
-<img src="assets/title-works.svg" width="100%" alt="Selected Work" />
-
-<a href="https://github.com/n0tmar/PrayerTray"><img src="assets/card-prayertray.svg" width="49%" alt="PrayerTray" /></a>
-<a href="https://github.com/n0tmar/Mar-System"><img src="assets/card-mar-system.svg" width="49%" alt="Mar System" /></a>
-<a href="https://github.com/n0tmar/SteaMar-Tool"><img src="assets/card-steamar.svg" width="49%" alt="SteaMar Tool" /></a>
-<a href="https://github.com/n0tmar/Github-Readme-Generator"><img src="assets/card-readme-gen.svg" width="49%" alt="GitHub README Generator" /></a>
-<a href="https://github.com/n0tmar/Highlighter-Plus"><img src="assets/card-highlighter.svg" width="49%" alt="Highlighter Plus" /></a>
-<a href="https://github.com/n0tmar/Marvel-Rivals-FPS-Booster"><img src="assets/card-fps-booster.svg" width="49%" alt="Marvel Rivals FPS Booster" /></a>
+<a href="https://github.com/n0tmar/Mar-Tools"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/spotlight.svg" width="100%" alt="Mar Tools" /></a>
 
 <br /><br />
 
-<img src="assets/title-more.svg" width="100%" alt="More Projects" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/title-works.svg" width="100%" alt="Selected Work" />
+
+<a href="https://github.com/n0tmar/PrayerTray"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-prayertray.svg" width="49%" alt="PrayerTray" /></a>
+<a href="https://github.com/n0tmar/Mar-System"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-mar-system.svg" width="49%" alt="Mar System" /></a>
+<a href="https://github.com/n0tmar/SteaMar-Tool"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-steamar.svg" width="49%" alt="SteaMar Tool" /></a>
+<a href="https://github.com/n0tmar/Github-Readme-Generator"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-readme-gen.svg" width="49%" alt="GitHub README Generator" /></a>
+<a href="https://github.com/n0tmar/Highlighter-Plus"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-highlighter.svg" width="49%" alt="Highlighter Plus" /></a>
+<a href="https://github.com/n0tmar/Marvel-Rivals-FPS-Booster"><img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/card-fps-booster.svg" width="49%" alt="Marvel Rivals FPS Booster" /></a>
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/title-more.svg" width="100%" alt="More Projects" />
 
 <table>
   <tr>
@@ -43,7 +43,7 @@
 
 <br />
 
-<img src="assets/title-stack.svg" width="100%" alt="Toolkit" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/title-stack.svg" width="100%" alt="Toolkit" />
 
 <br />
 
@@ -51,12 +51,12 @@
 
 <br /><br />
 
-<img src="assets/title-activity.svg" width="100%" alt="Activity" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/title-activity.svg" width="100%" alt="Activity" />
 
-<img src="assets/activity.svg" width="100%" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/activity.svg" width="100%" alt="Contribution graph" />
 
 <br /><br />
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/n0tmar/n0tmar/master/.github/assets/footer.svg" width="100%" alt="" />
 
 </div>
